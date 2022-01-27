@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alt3rcain
+- 👋 Hi, I’m @yigit-ali
 - 👀 I’m interested in many things including languages, storytelling, movies, anime, drawing.
 - 🌱 I’m currently learning front-end development, Arabic, writing.
 - 💞️ I’m looking to collaborate on projects where human languages and code go hand in hand to solve communication problems. 
